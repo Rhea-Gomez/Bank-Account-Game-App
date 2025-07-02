@@ -1,0 +1,14 @@
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\bin\Debug\net8.0\BankAccountGame.exe
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\bin\Debug\net8.0\BankAccountGame.deps.json
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\bin\Debug\net8.0\BankAccountGame.runtimeconfig.json
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\bin\Debug\net8.0\BankAccountGame.dll
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\bin\Debug\net8.0\BankAccountGame.pdb
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\obj\Debug\net8.0\BankAccountGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\obj\Debug\net8.0\BankAccountGame.AssemblyInfoInputs.cache
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\obj\Debug\net8.0\BankAccountGame.AssemblyInfo.cs
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\obj\Debug\net8.0\BankAccountGame.csproj.CoreCompileInputs.cache
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\obj\Debug\net8.0\BankAccountGame.dll
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\obj\Debug\net8.0\refint\BankAccountGame.dll
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\obj\Debug\net8.0\BankAccountGame.pdb
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\obj\Debug\net8.0\BankAccountGame.genruntimeconfig.cache
+D:\Training\Day5\Assignment\BankAccountGame\BankAccountGame\obj\Debug\net8.0\ref\BankAccountGame.dll
